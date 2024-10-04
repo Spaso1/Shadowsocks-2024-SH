@@ -16,3 +16,7 @@ git clone https://github.com/Spaso1/Shadowsocks-2024-SH
 ```
 Shadowsocks-2024-SH/ss-fly.sh -i abcdef20060113 10080
 ```
+如果此步出现 : `Permission denied`
+那就请把文件夹权限更改为777,你可以通过宝塔直接更改,也可以通过指令更改,我这里就不赘叙了
+
+执行完成后就可以使用客户端连接使用了~
