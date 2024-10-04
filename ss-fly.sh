@@ -448,7 +448,7 @@ install() {
         echo -e "你的密码            ：\033[41;37m ${password} \033[0m"
         echo -e "你的端口            ：\033[41;37m ${port} \033[0m"
         echo -e "你的加密方式        ：\033[41;37m aes-256-gcm \033[0m"
-        echo -e "欢迎访问www.godserver.cn   ：\033[41;37m https://www.godserver.cn \033[0m"
+        echo -e "欢迎访问www.godserver.cn   ：\033[41;37m http://www.godserver.cn \033[0m"
         get_ss_link
 }
 
