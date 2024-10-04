@@ -1,4 +1,9 @@
 # Shadowsocks-2024-SH
+**理论上所有版本通用**
+但我还是推荐几个测试过的稳定版本
+- AlibabaCloud3
+- Centos 7.X
+  
 一键安装SHadowsocks脚本
 未安装Git请先:
 ```
