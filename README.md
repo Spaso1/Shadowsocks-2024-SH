@@ -48,3 +48,6 @@ yum install python
 Shadowsocks-2024-SH/ss-fly2.sh -i 密码 端口
 ```
 即可,如果没有wget指令可以先安装wget再下载安装
+
+# 这里记录我用过的VPS
+- 浪浪云 https://langlangy.cn/
