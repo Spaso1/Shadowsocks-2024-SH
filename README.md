@@ -52,3 +52,4 @@ Shadowsocks-2024-SH/ss-fly2.sh -i 密码 端口
 
 # 这里记录我用过的VPS
 - 浪浪云 12/m https://langlangy.cn/
+- 腾讯云 99/y 
