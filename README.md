@@ -3,6 +3,7 @@
 但我还是推荐几个测试过的稳定版本
 - AlibabaCloud3
 - Centos 7.X
+- Centos 8.x
   
 一键安装SHadowsocks脚本
 未安装Git请先:
