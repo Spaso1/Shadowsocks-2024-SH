@@ -10,7 +10,7 @@ os='ossystem'
 password='www.godserver.com'
 port='1024'
 libsodium_file="libsodium-1.0.16"
-libsodium_url="http://www.godserver.cn/wp-content/uploads/2024/10/libsodium-1.0.16.tar.gz"
+libsodium_url="http://cdn.godserver.cn/resource/libsodium-1.0.16.tar.gz"
 
 fly_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
@@ -322,7 +322,7 @@ download_files() {
                 echo -e "[${red}错误${plain}] 下载${libsodium_file}.tar.gz失败!"
                 exit 1
         fi
-        if ! wget --no-check-certificate -O shadowsocks-master.zip http://www.godserver.cn/wp-content/uploads/2024/10/shadowsocks-master.zip
+        if ! wget --no-check-certificate -O shadowsocks-master.zip http://cdn.godserver.cn/resource/shadowsocks-master.zip
         then
                 echo -e "[${red}错误${plain}] shadowsocks安装包文件下载失败！"
                 exit 1
